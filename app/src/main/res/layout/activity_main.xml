@@ -37,6 +37,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:textSize="32sp"
-            android:text="@string/ok_button_label" />
+            android:text="@string/ok_button_label"
+            android:onClick="greet" />
     </LinearLayout>
 </LinearLayout>
